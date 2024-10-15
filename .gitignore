@@ -63,10 +63,7 @@ static/
 
 *.log
 
-docker-compose.yml
-Dockerfile
 .env
-.dockerignore
 
 .pytest_cache/
 
